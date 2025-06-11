@@ -6,7 +6,7 @@
       <li> 👀 I’m interested in music, rock climbing, and AI to create speedy tasks</li>
       <li> 🌱 I’m currently learning HTML, CSS, Python, ect... I'm trying to well rounded so I can have the broadest portfolio.</li>
       <li> 💞️ I’m looking to collaborate on really anything. It'll help me learn and experience the skills I will need to do this as a career.</li>
-      <li> 📫 How to reach me just email me @<strong>reischconrad@gmail.com</strong></li>
+      <li> 📫 How to reach me? Just email me <a href=mailto:reischconrad@gmail.com><strong>here</strong>.</a></li>
       <li> 😄 Pronouns: He/Him</li>
       <li> ⚡ Fun fact: I've worked on nuclear power plants for 4 years.</li>
     </ul>
