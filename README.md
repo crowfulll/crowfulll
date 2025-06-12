@@ -10,6 +10,7 @@
       <li> 😄 Pronouns: He/Him</li>
       <li> ⚡ Fun fact: I've worked on nuclear power plants for 4 years.</li>
     </ul>
+    <p>To end this off. Here's a meme for whether or not you're in light vs dark mode.</p>
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://static.news.bitcoin.com/wp-content/uploads/2024/10/gigachd.jpg">
          <source media="(prefers-color-scheme: light)" srcset="https://i.kym-cdn.com/entries/icons/mobile/000/027/479/Untitled-1.jpg">
